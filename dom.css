@@ -1,0 +1,11 @@
+.head {
+    width: 25%;
+    border: 2px solid black;
+ display: inline-block;
+
+}
+
+span {
+    border: 2px solid black;
+ width: "700px";
+}
